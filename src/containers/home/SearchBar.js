@@ -12,7 +12,7 @@ export default function SearchBar({cityRendler}) {
     return (
         <View style={{marginTop: 15, flexDirection: "row"}}>
           <GooglePlacesAutocomplete 
-            query={{key: 'AIzaSyAYB4FPIsv-5KUnIfEQtS0pnpQ7NBIzEPI'}}
+            
             onPress = {(data, details = null) =>{
                 const city = data.description.split(',')[0];
                 console.log(city)

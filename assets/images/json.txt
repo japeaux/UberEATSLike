@@ -1,0 +1,30 @@
+[
+{
+"country" : "Unitated States",
+"city" : "New York",
+"lat" : "40.746587281512674", 
+"lng" :"-73.98726723115817"
+},
+{
+"country" : "Brazil",
+"city" : "São Paulo",
+"lat" : "-23.556334346240032",
+"lng" :"-46.64614127588784"
+},
+{
+"country" : "Australia",
+"city" : "Sydney",
+"lat" : "-33.84222253438343",
+"lng" :"151.21072641807174"
+},
+{
+"country" : "Germany",
+"city" : "Berlin",
+"lat" : "52.518461738818644",
+"lng" :"13.385587246339501"
+}
+]
+
+https://mocki.io/v1/753c4f4b-3b96-43d9-9197-59db672a51d4
+
+https://mocki.io/v1/f56d86d1-5d56-4b62-9db7-f2df71907e13

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811926196017",
+    "project_id": "ubereatslike-9f838",
+    "storage_bucket": "ubereatslike-9f838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811926196017:android:ac6ef0db0c48300f9d6a10",
+        "android_client_info": {
+          "package_name": "com.ubereatslike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811926196017-ag39tt2jou9oa4i5cppqtb505v399dnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmSaelKt1S1e1v6HShAcUc5v7gg8UA6Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811926196017-ag39tt2jou9oa4i5cppqtb505v399dnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
